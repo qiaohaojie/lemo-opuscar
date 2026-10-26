@@ -1,3 +1,5 @@
+Obsidian project folder: `230_Content_Creation/Project/gq-lemo-opuscar`
+
 # Lemo-Opuscar: instructions for agents
 
 This repository is a library of film styles. Each style has a `styles/<slug>/STYLE.md` (what the style is) and one demo film made entirely in code (`DEMO.md` and `demo/`). People pick a style and ask for a film about **their own** topic. Your job is to direct and produce that film.
